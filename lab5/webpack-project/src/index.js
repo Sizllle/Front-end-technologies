@@ -1,3 +1,3 @@
 import './styles/scss/index.scss';
 
-console.log("Hi, project!");
+console.log("Hello world!");

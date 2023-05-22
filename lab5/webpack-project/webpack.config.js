@@ -26,6 +26,7 @@ module.exports = {
         ]
     },
     plugins: [
+        new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             title: 'webpack index.html',
             filename: 'index.html',
@@ -57,7 +58,6 @@ module.exports = {
                 }
             ]
         }),
-        new CleanWebpackPlugin(),
     ],
     devServer:  {
         static: {
