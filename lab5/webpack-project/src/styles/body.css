@@ -1,0 +1,6 @@
+.body {
+    background: linear-gradient(to bottom, #BDF400, #98B72E, #7B9E00, #CFF93E, #DBF970);
+    width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
