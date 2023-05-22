@@ -1,0 +1,29 @@
+.schedule {
+    margin-bottom: 20px;
+  }
+  
+  .schedule__title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+  }
+  
+  .schedule__table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .schedule__table-day {
+    background-color: rgb(255, 92, 100);
+  }
+
+  .schedule__table-time {
+    background-color: rgb(255, 92, 100);
+  }
+
+  .schedule__table th,
+  .schedule__table td {
+    border: 1px solid #000;
+    padding: 8px;
+  }
+  
